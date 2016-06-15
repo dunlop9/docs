@@ -10,7 +10,7 @@ navigation:
   show: true
 ---
 
-If you want to send a SendGrid email when you add new Firebase child records, you can do that using [Zapier](http://zapier.com).
+If you want to send a SendGrid email when you add new Firebase child records, you can do that using [Zapier](http://zapier.com). As on today, there are not triggers available for Firebase yet. So, it may work in future for today, there is no way to monitor child records addition on Firebase to send emails using SendGrid.
 
 You will need:
 
